@@ -48,3 +48,6 @@ This site contains the Security Technical Implementation Guides and Security Req
 
 ### [Privay.Sexy](https://privacy.sexy/)
 Enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy.
+
+### [Microsoft Security Compliance Toolkit 1.0](https://www.microsoft.com/en-us/download/details.aspx?id=55319)
+This set of tools allows enterprise security administrators to download, analyze, test, edit and store Microsoft-recommended security configuration baselines for Windows and other Microsoft products, while comparing them against other security configurations.  
