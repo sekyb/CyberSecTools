@@ -37,3 +37,14 @@ WebHackersWeapons is a curated collection of tools, scripts, and resources speci
 
 ### [Static Analysis - Analysis Tools Dev](https://github.com/analysis-tools-dev/static-analysis)
 This repository is a comprehensive list of static analysis tools for different programming languages, security auditing, and vulnerability detection. Static analysis helps detect security flaws and code quality issues early in the development lifecycle, reducing the risk of exploitable vulnerabilities. You would use this for source code analysis, security auditing, and automating vulnerability detection in software development projects.
+
+### [Privacy.Sexy](https://github.com/undergroundwires/privacy.sexy)
+Open-source tool to enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy
+
+## Useful Sites 
+
+### [DISA Stig](https://public.cyber.mil/stigs/)
+This site contains the Security Technical Implementation Guides and Security Requirements Guides for the Department of Defense (DOD) information technology systems as mandated by DODI 8500.01. This guidance bridges the gap between the National Institute of Standards and Technology Special Publication 800-53 and risk management framework (RMF). 
+
+### [Privay.Sexy](https://privacy.sexy/)
+Enforce privacy & security best-practices on Windows, macOS and Linux, because privacy is sexy.
